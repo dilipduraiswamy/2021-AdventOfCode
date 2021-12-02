@@ -12,7 +12,7 @@ public class PartA {
     public static void main(String[] args) {
 
         //read the file by filepath
-        String fileName = "/Users/dilip.d/Downloads/AoC-2021-Solutions-main/day_01/day_01.in";
+        String fileName = "/Users/dilip.d/Downloads/AoC-2021-Solutions-main/day_01/parta.in";
         List<String> inputData = getFileData(fileName);
         int position=0;
         int depth=0;
