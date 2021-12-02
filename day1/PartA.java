@@ -12,7 +12,7 @@ import java.util.stream.Stream;
 public class PartA {
 
     public static void main(String[] args) {
-        String fileName = "/Users/dilip.d/Downloads/AoC-2021-Solutions-main/day_01/day_01.in";
+        String fileName = "/Users/dilip.d/Downloads/AoC-2021-Solutions-main/day_01/parta.in";
         List<Integer> sampleData=getFileData(fileName);
         List<String> incrementData=new ArrayList<>();
         for(int i = 0; i< sampleData.size(); i++)
